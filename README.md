@@ -25,7 +25,7 @@
 ---
 ### 📧 Social & Contact
 <div>
-<a href="mailto:tnp.aayush13013@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aayush Soni's email address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aayush13013@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aayush Soni's email address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://aayush13013.github.io" target="_blank" rel="noreferrer"> <img alt="Aayush Soni's portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aayush-13-soni/" target="_blank" rel="noreferrer"> <img alt="Aayush Soni's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Aayush13013/" target="_blank" rel="noreferrer"> <img alt="Aayush Soni's Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
