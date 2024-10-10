@@ -18,7 +18,7 @@
 - 💡 Contributing to Open Source Projects has always been my goal.
 - ⚡ Fun fact: Buff of Sci-fi & Sport-Cricket.
   <br><br>
-  Check out my [portfolio](https://aayush13013.github.io/portfolio), and [Resume](https://drive.google.com/file/d/1Zcit5TZRT4du2rfiKVk32LHg96cSKseO/view) to learn more about me and my projects.
+  Check out my [portfolio](https://aayush13013.github.io/portfolio), and [Resume](https://drive.google.com/file/d/1C6r9khCybBVDB4n4Iz6d4BIGgisorRAB/view?usp=drive_link) to learn more about me and my projects.
 
 <br>
 
